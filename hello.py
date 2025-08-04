@@ -1,0 +1,2 @@
+maz = ("MUHAMMAD")
+print(maz)
